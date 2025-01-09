@@ -11,8 +11,7 @@ I'm an aspiring full-stack developer on a journey to turn my passion for coding 
 Check out my projects below! I'm building small apps, practicing designs, and having fun with code.  
 
 ## 🤝 Let's Connect  
-- [GitHub](https://github.com/yourusername)  
-- [LinkedIn](https://linkedin.com/in/yourlinkedin)  
+- [LinkedIn](https://linkedin.com/in/anilbayer)  
 
 ---
 
