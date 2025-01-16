@@ -1,11 +1,7 @@
 # Hey there! I'm Anil Bayer. 👋  
 
 Welcome to my little corner on GitHub!  
-I'm an aspiring full-stack developer on a journey to turn my passion for coding into a career 🌟.  
-
-## 🚀 About Me  
-- 🖥️ Working on: Web development.
-- 🐶 Dog dad to Sudo.
+I'm an aspiring software engineer on a journey to turn my passion for coding into a career 🌟.  
 
 ## 💻 Projects  
 Check out my projects below! I'm building small apps, practicing designs, and having fun with code.  
