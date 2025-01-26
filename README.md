@@ -7,7 +7,9 @@ I'm an aspiring software engineer on a journey to turn my passion for coding int
 Check out my projects below! I'm building small apps, practicing designs, and having fun with code.  
 
 ## 🤝 Let's Connect  
-- [LinkedIn](https://linkedin.com/in/anilbayer)  
+- [LinkedIn](https://linkedin.com/in/anilbayer)
+- [Twitter](https://twitter.com/anilbayerr)
+
 
 ---
 
